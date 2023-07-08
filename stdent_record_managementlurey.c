@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAX_STUDENTS 100
+#define MAX_STUDENTS 1000
 #define MAX_NAME_LENGTH 50
 
 typedef struct {
